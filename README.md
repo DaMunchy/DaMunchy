@@ -1,4 +1,4 @@
-![GitHub Logo](https://github.com/favicon.ico
+![GitHub Logo](https://github.com/favicon.icon)
 
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 
