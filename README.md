@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm a Demon King with ambitions to conquer the world. I sp
 - [LinkedIn](https://www.linkedin.com/in/your-profile)
 - [Twitter](https://twitter.com/your-profile)
 
-![Your Awesome Banner](https://example.com/banner-image.jpg)
+![Your Awesome Banner](https://pin.it/3E66bc0qA)
 
 ## Projects 🛠️
 - [Project 1](https://github.com/bazz/project1): A cool project
