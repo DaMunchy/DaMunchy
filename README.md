@@ -4,21 +4,10 @@
 Welcome to my GitHub! I'm a Demon King with ambitions to conquer the world. I specialize in coding, design, and game development.
 
 ## What I'm Working On 🚀
-- Creating a 2D RPG game
-- Developing a Minecraft addon
-- Building various Python bots
+- Creating a whatsapp bots
 
-## Connect with Me 🌐
-- [Portfolio](https://your-portfolio-link.com)
-- [LinkedIn](https://www.linkedin.com/in/your-profile)
-- [Twitter](https://twitter.com/your-profile)
 
-![Your Awesome Banner](https://pin.it/3E66bc0qA)
-
-## Projects 🛠️
-- [Project 1](https://github.com/bazz/project1): A cool project
-- [Project 2](https://github.com/bazz/project2): Another cool project
-
+![](https://files.catbox.moe/1gfisa.png)
 
 <!---
 DaMunchy/DaMunchy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
