@@ -1,7 +1,7 @@
 
 # Hi, I'm Bazz 👋
 
-Welcome to my GitHub! I'm a Demon King with ambitions to conquer the world. I specialize in coding, design, and game development.
+Welcome to my GitHub! I'm a Demon King with ambitions to conquer the world. I specialize in coding, design.
 
 ## What I'm Working On 🚀
 - Creating a whatsapp bots
