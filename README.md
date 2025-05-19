@@ -1,5 +1,5 @@
 
-# Hi, I'm Bazz 👋
+# Hi, I'm Munchy 👋
 
 I’m focused on coding and building cool projects with big goals to make a difference.
 
