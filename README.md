@@ -1,15 +1,38 @@
+<!-- Badges (you can add more from https://shields.io/) -->
+![Awesome](https://img.shields.io/badge/Awesome-Yes-green?style=for-the-badge&logo=github)
 
-# Hi, I'm Munchy 👋
+# Hi there, I'm DaMunchy 👋
 
-I’m focused on coding and building cool projects with big goals to make a difference.
+I'm an 11th-grade high school student, passionate about coding and building cool things!
 
-## What I'm Working On 🚀
-- Creating a whatsapp bots
+## 💻 Skills
+
+- **Languages:** HTML, CSS, JavaScript, Python
+- **Tools:** VS Code, Git, GitHub
+
+## 🚀 What I Do
+
+- Build websites
+- Make WhatsApp bots
+- Create games
+- Always learning something new!
+
+## 🎯 Hobbies
+
+- Working on fun coding projects
+- Exploring new tech
+- Gaming
+
+## 📫 Connect with me
+
+- [GitHub](https://github.com/DaMunchy)
 
 
-![](https://files.catbox.moe/1gfisa.png)
+---
 
-<!---
-DaMunchy/DaMunchy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+> “I’m still figuring out why I code, but I know I love making things!”
+
+<!--
+You can add more badges, images, or sections (like "Pinned Projects", "Stats", etc.) as you like!
+Try using shields.io or GitHub Readme Stats for more awesome visuals.
+-->
